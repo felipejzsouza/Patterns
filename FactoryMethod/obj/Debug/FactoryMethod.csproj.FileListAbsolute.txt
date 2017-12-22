@@ -1,0 +1,6 @@
+c:\OO\PadroesProjetos\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+c:\OO\PadroesProjetos\FactoryMethod\bin\Debug\FactoryMethod.exe
+c:\OO\PadroesProjetos\FactoryMethod\bin\Debug\FactoryMethod.pdb
+c:\OO\PadroesProjetos\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+c:\OO\PadroesProjetos\FactoryMethod\obj\Debug\FactoryMethod.exe
+c:\OO\PadroesProjetos\FactoryMethod\obj\Debug\FactoryMethod.pdb

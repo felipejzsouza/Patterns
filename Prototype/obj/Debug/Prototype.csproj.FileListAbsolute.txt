@@ -1,0 +1,6 @@
+c:\OO\PadroesProjetos\Prototype\bin\Debug\Prototype.exe.config
+c:\OO\PadroesProjetos\Prototype\bin\Debug\Prototype.exe
+c:\OO\PadroesProjetos\Prototype\bin\Debug\Prototype.pdb
+c:\OO\PadroesProjetos\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+c:\OO\PadroesProjetos\Prototype\obj\Debug\Prototype.exe
+c:\OO\PadroesProjetos\Prototype\obj\Debug\Prototype.pdb

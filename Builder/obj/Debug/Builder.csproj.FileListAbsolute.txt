@@ -1,0 +1,6 @@
+c:\OO\PadroesProjetos\Builder\bin\Debug\Builder.exe.config
+c:\OO\PadroesProjetos\Builder\bin\Debug\Builder.exe
+c:\OO\PadroesProjetos\Builder\bin\Debug\Builder.pdb
+c:\OO\PadroesProjetos\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+c:\OO\PadroesProjetos\Builder\obj\Debug\Builder.exe
+c:\OO\PadroesProjetos\Builder\obj\Debug\Builder.pdb
